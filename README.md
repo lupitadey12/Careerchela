@@ -1,4 +1,4 @@
-# Careerchela (ongoing)
+# Make Career Easy (makecareereasy.herokuapp.com)- Live website implementation
 → MSAC Project Team- MAKE CAREER EASY                      
 Microsoft Learn Student Ambassadors KiiT
 • (makecareereasy.herokuapp.com) is a live website implementation which forms as a training portal for candidates to practice for placement/job interviews and provides diverse career solutions. It also performs as an educative portal for educators and faculty as well.
